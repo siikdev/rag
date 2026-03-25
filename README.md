@@ -135,6 +135,17 @@ make api
 
 ---
 
+## 학습 문서
+
+각 Stage의 개념과 원리는 [`docs/`](docs/) 폴더에 정리되어 있습니다.
+
+| 문서 | 주제 |
+|------|------|
+| [Stage 0 — Naive RAG](docs/stage0_naive_rag.md) | RAG 개요와 한계 |
+| [Stage 1 — Hybrid Search](docs/stage1_hybrid_search.md) | BGE-M3, Dense/Sparse, RRF, HyDE, RAG-Fusion |
+
+---
+
 ## 참고 논문
 
 | 논문 | Stage |
